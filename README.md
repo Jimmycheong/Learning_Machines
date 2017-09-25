@@ -1,2 +1,3 @@
-# Learning_Machines
-Machine learning repo
+# Notebooks on machine learning
+
+A place to store machine learning knowledge
